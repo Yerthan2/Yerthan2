@@ -1,8 +1,7 @@
-### Hi, I'm Jose Manuel
 <h1 align="center">Hi, I'm Jose Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<a target="_blank" align="center">
-  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a target="blank" align="center">
+  <img  top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
