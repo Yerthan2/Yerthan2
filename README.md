@@ -39,7 +39,7 @@
 ### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TuPerfil](https://www.linkedin.com/in/jos%C3%A9-manuel-garc%C3%ADa-alonso-1507b826b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-manuel-garc%C3%ADa-alonso-1507b826b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:tuemail@correo.com" target="_blank">
